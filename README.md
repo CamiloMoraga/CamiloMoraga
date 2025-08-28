@@ -1,22 +1,22 @@
-### ¡Hola! Soy Camilo 👋
+<h1 align="center">¡Hola a todos! 👋 Soy Camilo Moraga</h1>
 
-Soy un desarrollador de software con pasión por crear soluciones eficientes y escalables. Me especializo en **JavaScript, Node.js y React**.
-
----
-
-### ⚙️ Herramientas y Tecnologías
-- **Lenguajes:** JavaScript, TypeScript
-- **Frameworks:** Node.js, Next.js, React
-- **Bases de Datos:** PostgreSQL, MongoDB
-- **Herramientas:** Git, Docker, Jest
+<p align="center">
+  Un apasionado desarrollador web que disfruta construyendo cosas.
+</p>
 
 ---
 
-### 🚀 Proyectos Destacados
-- **[Nombre del Proyecto 1](enlace-al-proyecto):** Descripción breve del proyecto.
-- **[Nombre del Proyecto 2](enlace-al-proyecto):** Descripción breve del proyecto.
+### 📈 Mis Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CamiloMoraga&show_icons=true&theme=onedark" alt="Camilo's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloMoraga&layout=compact&theme=onedark" alt="Top Languages" />
+</p>
 
 ---
 
-### 🤝 Conectemos
-[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](tu-enlace-de-linkedin)
+### 💻 Tecnologías que uso
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,react,html,css,postgres,mongodb,docker,git" />
+</p>
