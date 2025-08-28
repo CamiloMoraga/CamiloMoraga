@@ -1,17 +1,6 @@
-<h1 align="center">¡Hola a todos! 👋 Soy Camilo Moraga</h1>
+### ¡Hola! Soy Camilo 👋
 
-<p align="center">
-  Un apasionado desarrollador web que disfruta construyendo cosas.
-</p>
-
----
-
-### 📈 Mis Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CamiloMoraga&show_icons=true&theme=onedark" alt="Camilo's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CamiloMoraga&layout=compact&theme=onedark" alt="Top Languages" />
-</p>
+Soy un desarrollador de software con pasión por crear soluciones eficientes y escalables. Me especializo en **JavaScript, Node.js y React**.
 
 ---
 
@@ -20,3 +9,13 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,nextjs,react,html,css,postgres,mongodb,docker,git" />
 </p>
+---
+
+### 🚀 Proyectos Destacados
+- **[Nombre del Proyecto 1](enlace-al-proyecto):** Descripción breve del proyecto.
+- **[Nombre del Proyecto 2](enlace-al-proyecto):** Descripción breve del proyecto.
+
+---
+
+### 🤝 Conectemos
+[<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />](tu-enlace-de-linkedin)
