@@ -7,7 +7,7 @@ Soy un desarrollador de software con pasión por crear soluciones eficientes y e
 ### 💻 Tecnologías que uso
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,nodejs,nextjs,react,html,css,postgres,mongodb,docker,git" />
+  <img src="https://skillicons.dev/icons?i=js,python,nodejs,html,css,postgres,git" />
 </p>
 ---
 
