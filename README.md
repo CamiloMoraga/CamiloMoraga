@@ -1,6 +1,7 @@
 ### ¡Hola! Soy Camilo 👋
 
-Soy un desarrollador de software con pasión por crear soluciones eficientes y escalables. Me especializo en **JavaScript, Node.js y React**.
+Soy un desarrollador de software en constante aprendizaje, apasionado por crear soluciones prácticas y escalables.
+Recién egresado, actualmente sigo fortaleciendo mis habilidades en JavaScript, Node.js y React, explorando buenas prácticas de desarrollo y arquitectura de software.
 
 ---
 
