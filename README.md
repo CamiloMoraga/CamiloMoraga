@@ -8,7 +8,7 @@ Recién egresado, actualmente sigo fortaleciendo mis habilidades en JavaScript, 
 ### 💻 Tecnologías que uso
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,django,nodejs,html,css,postgres,git,react" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,django,nodejs,html,css,postgres,git,react" />
 </p>
 ---
 
